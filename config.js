@@ -1,8 +1,8 @@
 /**
-   * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Create By Niroshan-MD.
+   * Recode By Niroshan-MD
+   * Contact Me on wa.me/94716682532
+   * Follow https://github.com/NIROSHAN0
 */
 
 const fs = require('fs')
@@ -19,33 +19,33 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
-global.sessionName = 'nazedev'  //jangan diganti bro nanti error
+global.owner = ['94716682532']
+global.ownernomer = "94716682532"
+global.premium = ['94704119750']
+global.packname = 'Sticker By Niroshan-MD'
+global.author = 'Niroshan-MD'
+global.sessionName = 'niroshan-md'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
-global.prefa = ['','!','.','#','&']
-global.sp = ''
+global.prefa = ['.']
+global.sp = '...'
 
 // Setting Mess
 global.mess = {
-    success: '✅Done',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+    success: '*✅Done*',
+    admin: '*use this command only Admin Group!*',
+    botAdmin: '*First admin bot!*',
+    premime: '*can use this command only premeum / Chat Owner*',
+    owner: ' *this command only bot owner can use*',
+    group: ' *Group only!*',
+    private: ' *Private Chat only!*',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...',
     error: 'Error!',
     errapi: 'Error Mungkin Apikey Tidak Valid!',
     errmor: 'Error Kesalahan Sistem',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    endLimit: '*Your limite of today is over.that refresh in 12 hours*',
 }
 
 // Limit
@@ -66,7 +66,7 @@ global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
 
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
+global.akulaku = 'Bot By Niroshan-MD'
 global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
